@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BEANS</folder>
+	<filename>BEANS0002.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\CookML\models\dataset\Images\BEANS\BEANS0002.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>22</ymin>
+			<xmax>222</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>
