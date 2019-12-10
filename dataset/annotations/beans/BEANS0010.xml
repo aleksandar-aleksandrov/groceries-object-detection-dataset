@@ -1,7 +1,7 @@
 <annotation>
 	<folder>beans</folder>
-	<filename>BEANS0003.png</filename>
-	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\beans\BEANS0003.png</path>
+	<filename>BEANS0010.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\beans\BEANS0010.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>44</xmin>
-			<ymin>49</ymin>
-			<xmax>108</xmax>
-			<ymax>138</ymax>
+			<xmin>35</xmin>
+			<ymin>29</ymin>
+			<xmax>105</xmax>
+			<ymax>125</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>105</xmin>
-			<ymin>106</ymin>
-			<xmax>154</xmax>
-			<ymax>174</ymax>
+			<xmin>109</xmin>
+			<ymin>28</ymin>
+			<xmax>159</xmax>
+			<ymax>126</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>150</xmin>
-			<ymin>33</ymin>
-			<xmax>201</xmax>
-			<ymax>104</ymax>
+			<xmin>162</xmin>
+			<ymin>32</ymin>
+			<xmax>207</xmax>
+			<ymax>121</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>104</xmin>
-			<ymin>34</ymin>
-			<xmax>151</xmax>
-			<ymax>103</ymax>
+			<xmin>37</xmin>
+			<ymin>128</ymin>
+			<xmax>99</xmax>
+			<ymax>196</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>beans</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>51</ymin>
-			<xmax>49</xmax>
-			<ymax>143</ymax>
+			<xmin>103</xmin>
+			<ymin>128</ymin>
+			<xmax>156</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>beans</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>126</ymin>
+			<xmax>206</xmax>
+			<ymax>196</ymax>
 		</bndbox>
 	</object>
 </annotation>

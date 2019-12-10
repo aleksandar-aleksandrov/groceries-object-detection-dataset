@@ -1,7 +1,7 @@
 <annotation>
 	<folder>beans</folder>
-	<filename>BEANS0004.png</filename>
-	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\beans\BEANS0004.png</path>
+	<filename>BEANS0011.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\beans\BEANS0011.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>28</xmin>
-			<ymin>3</ymin>
-			<xmax>193</xmax>
-			<ymax>204</ymax>
+			<xmin>82</xmin>
+			<ymin>49</ymin>
+			<xmax>158</xmax>
+			<ymax>175</ymax>
 		</bndbox>
 	</object>
 </annotation>
