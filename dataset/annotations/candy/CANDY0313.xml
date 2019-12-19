@@ -1,0 +1,26 @@
+<annotation>
+	<folder>candy</folder>
+	<filename>CANDY0313.png</filename>
+	<path>C:\Users\DE103463\Desktop\prj\yolo-groceries-dataset\dataset\images\candy\CANDY0313.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>candy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>65</ymin>
+			<xmax>172</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

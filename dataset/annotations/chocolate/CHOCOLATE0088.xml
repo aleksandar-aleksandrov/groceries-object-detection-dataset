@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chocolate</folder>
+	<filename>CHOCOLATE0088.png</filename>
+	<path>C:\Users\DE103463\Desktop\prj\yolo-groceries-dataset\dataset\images\chocolate\CHOCOLATE0088.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>74</ymin>
+			<xmax>216</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

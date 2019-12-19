@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cereal</folder>
+	<filename>CEREAL0266.png</filename>
+	<path>C:\Users\DE103463\Desktop\prj\yolo-groceries-dataset\dataset\images\cereal\CEREAL0266.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cereal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>6</ymin>
+			<xmax>173</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
