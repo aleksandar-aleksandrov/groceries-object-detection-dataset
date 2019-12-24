@@ -3,7 +3,7 @@ import os
 import sys
 from pathlib import Path
 
-dir = Path(__file__).parent.joinpath('images/flour')
+dir = Path(__file__).parent.joinpath('images/nuts')
 
 for file_name in dir.iterdir():
     print("Processing %s" % file_name)
