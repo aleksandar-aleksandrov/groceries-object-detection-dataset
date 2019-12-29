@@ -3,7 +3,7 @@ import os
 import sys
 from pathlib import Path
 
-dir = Path(__file__).parent.joinpath('images/nuts')
+dir = Path(__file__).parent.joinpath('images/oil')
 
 for file_name in dir.iterdir():
     print("Processing %s" % file_name)
@@ -11,7 +11,6 @@ for file_name in dir.iterdir():
 
     output = image.resize((224, 224), Image.ANTIALIAS)
 
-    #output_file_name = os.path.join(dir, "small_" + file_name)
     output.save(file_name, "PNG", quality = 95)
 
     print("All done")
