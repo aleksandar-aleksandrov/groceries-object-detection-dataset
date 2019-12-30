@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honey</folder>
+	<filename>HONEY0056.png</filename>
+	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\honey\HONEY0056.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>51</ymin>
+			<xmax>148</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>
