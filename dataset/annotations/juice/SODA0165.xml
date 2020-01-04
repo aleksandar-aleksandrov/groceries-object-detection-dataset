@@ -1,0 +1,26 @@
+<annotation>
+	<folder>soda</folder>
+	<filename>SODA0165.png</filename>
+	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\soda\SODA0165.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>4</ymin>
+			<xmax>159</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>corn</folder>
+	<filename>CORN0023.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\corn\CORN0023.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>76</ymin>
+			<xmax>142</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

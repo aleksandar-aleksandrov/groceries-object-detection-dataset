@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pasta</folder>
+	<filename>PASTA0104.png</filename>
+	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\pasta\PASTA0104.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pasta</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>1</ymin>
+			<xmax>195</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

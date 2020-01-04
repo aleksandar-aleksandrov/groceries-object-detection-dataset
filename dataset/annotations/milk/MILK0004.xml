@@ -1,0 +1,26 @@
+<annotation>
+	<folder>milk</folder>
+	<filename>MILK0004.png</filename>
+	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\milk\MILK0004.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>milk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>65</ymin>
+			<xmax>144</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

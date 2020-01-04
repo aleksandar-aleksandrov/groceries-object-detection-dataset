@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vinegar</folder>
+	<filename>VINEGAR0008.png</filename>
+	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\vinegar\VINEGAR0008.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vinegar</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>10</ymin>
+			<xmax>167</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
