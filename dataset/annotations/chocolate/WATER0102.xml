@@ -1,0 +1,26 @@
+<annotation>
+	<folder>water</folder>
+	<filename>WATER0102.png</filename>
+	<path>C:\Users\DE103463\Desktop\prj\yolo-groceries-dataset\dataset\images\water\WATER0102.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>46</ymin>
+			<xmax>132</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
