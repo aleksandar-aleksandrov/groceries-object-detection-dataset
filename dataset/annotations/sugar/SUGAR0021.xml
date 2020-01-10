@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sugar</folder>
+	<filename>SUGAR0021.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\sugar\SUGAR0021.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>49</ymin>
+			<xmax>165</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tomato_sauce</folder>
+	<filename>TOMATO_SAUCE0028.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0028.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tomato_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>56</ymin>
+			<xmax>162</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

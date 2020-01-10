@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tea</folder>
+	<filename>TEA0227.png</filename>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\tea\TEA0227.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>4</ymin>
+			<xmax>159</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
