@@ -1,7 +1,7 @@
 <annotation>
 	<folder>milk</folder>
 	<filename>MILK0161.png</filename>
-	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\milk\MILK0161.png</path>
+	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\milk\MILK0161.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>35</xmin>
-			<ymin>6</ymin>
-			<xmax>201</xmax>
+			<ymin>4</ymin>
+			<xmax>195</xmax>
 			<ymax>224</ymax>
 		</bndbox>
 	</object>
