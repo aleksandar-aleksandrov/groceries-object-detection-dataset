@@ -1,13 +1,13 @@
 <annotation>
 	<folder>tomato_sauce</folder>
 	<filename>TOMATO_SAUCE0156.png</filename>
-	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0156.png</path>
+	<path>C:\Users\Aleksandar\Desktop\groceries-object-detection-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0156.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>256</width>
-		<height>256</height>
+		<width>224</width>
+		<height>224</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>112</xmin>
-			<ymin>40</ymin>
-			<xmax>156</xmax>
-			<ymax>108</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tomato_sauce</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>160</xmin>
+			<xmin>98</xmin>
 			<ymin>34</ymin>
-			<xmax>206</xmax>
-			<ymax>102</ymax>
+			<xmax>137</xmax>
+			<ymax>96</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>37</xmin>
-			<ymin>31</ymin>
-			<xmax>90</xmax>
-			<ymax>102</ymax>
+			<xmin>139</xmin>
+			<ymin>32</ymin>
+			<xmax>180</xmax>
+			<ymax>89</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>86</xmin>
-			<ymin>8</ymin>
-			<xmax>123</xmax>
-			<ymax>77</ymax>
+			<xmin>31</xmin>
+			<ymin>28</ymin>
+			<xmax>78</xmax>
+			<ymax>90</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>37</xmin>
-			<ymin>134</ymin>
-			<xmax>88</xmax>
+			<xmin>32</xmin>
+			<ymin>116</ymin>
+			<xmax>76</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>138</ymin>
+			<xmax>165</xmax>
 			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>8</ymin>
+			<xmax>108</xmax>
+			<ymax>65</ymax>
 		</bndbox>
 	</object>
 </annotation>

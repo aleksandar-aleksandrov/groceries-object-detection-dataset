@@ -1,13 +1,13 @@
 <annotation>
 	<folder>tomato_sauce</folder>
 	<filename>TOMATO_SAUCE0064.png</filename>
-	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0064.png</path>
+	<path>C:\Users\Aleksandar\Desktop\groceries-object-detection-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0064.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>256</width>
-		<height>256</height>
+		<width>224</width>
+		<height>224</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,21 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>102</xmin>
-			<ymin>5</ymin>
-			<xmax>190</xmax>
-			<ymax>233</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tomato_sauce</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>45</xmin>
-			<ymin>1</ymin>
-			<xmax>113</xmax>
+			<xmin>89</xmin>
+			<ymin>4</ymin>
+			<xmax>168</xmax>
 			<ymax>203</ymax>
 		</bndbox>
 	</object>
@@ -41,22 +29,22 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
+			<xmin>34</xmin>
 			<ymin>1</ymin>
-			<xmax>45</xmax>
-			<ymax>229</ymax>
+			<xmax>93</xmax>
+			<ymax>176</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>tomato_sauce</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>1</ymin>
-			<xmax>248</xmax>
-			<ymax>155</ymax>
+			<xmin>165</xmin>
+			<ymin>2</ymin>
+			<xmax>217</xmax>
+			<ymax>131</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,26 +1,50 @@
 <annotation>
 	<folder>tomato_sauce</folder>
 	<filename>TOMATO_SAUCE0147.png</filename>
-	<path>C:\Users\Aleksandar\Desktop\yolo-groceries-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0147.png</path>
+	<path>C:\Users\Aleksandar\Desktop\groceries-object-detection-dataset\dataset\images\tomato_sauce\TOMATO_SAUCE0147.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>256</width>
-		<height>256</height>
+		<width>224</width>
+		<height>224</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>tomato_sauce</name>
 		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>105</ymin>
+			<xmax>224</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato_sauce</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>108</ymin>
+			<xmax>157</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tomato_sauce</name>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>181</xmin>
-			<ymin>7</ymin>
-			<xmax>239</xmax>
-			<ymax>90</ymax>
+			<xmin>111</xmin>
+			<ymin>6</ymin>
+			<xmax>160</xmax>
+			<ymax>77</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,58 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>127</xmin>
-			<ymin>7</ymin>
-			<xmax>181</xmax>
-			<ymax>89</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tomato_sauce</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>64</xmin>
-			<ymin>125</ymin>
-			<xmax>179</xmax>
-			<ymax>256</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tomato_sauce</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>174</xmin>
-			<ymin>123</ymin>
-			<xmax>256</xmax>
-			<ymax>251</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tomato_sauce</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1</ymin>
-			<xmax>82</xmax>
-			<ymax>124</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tomato_sauce</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>126</ymin>
-			<xmax>57</xmax>
-			<ymax>256</ymax>
+			<xmin>158</xmin>
+			<ymin>6</ymin>
+			<xmax>210</xmax>
+			<ymax>78</ymax>
 		</bndbox>
 	</object>
 </annotation>
