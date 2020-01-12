@@ -1,7 +1,7 @@
 <annotation>
 	<folder>jam</folder>
 	<filename>JAM0101.png</filename>
-	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\jam\JAM0101.png</path>
+	<path>C:\Users\Aleksandar\Desktop\groceries-object-detection-dataset\dataset\images\jam\JAM0101.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>jsm</name>
+		<name>jam</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

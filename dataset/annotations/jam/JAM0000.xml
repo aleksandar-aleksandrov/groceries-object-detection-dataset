@@ -1,7 +1,7 @@
 <annotation>
 	<folder>jam</folder>
 	<filename>JAM0000.png</filename>
-	<path>C:\Users\antoaneta\yolo-groceries-dataset\dataset\images\jam\JAM0000.png</path>
+	<path>C:\Users\Aleksandar\Desktop\groceries-object-detection-dataset\dataset\images\jam\JAM0000.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>59</xmin>
+			<xmin>58</xmin>
 			<ymin>63</ymin>
-			<xmax>173</xmax>
+			<xmax>172</xmax>
 			<ymax>184</ymax>
 		</bndbox>
 	</object>
